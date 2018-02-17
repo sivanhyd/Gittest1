@@ -1,1 +1,7 @@
 #!/bin/bash
+echo"##############################"
+mkdir /var/tmp/saabproject
+cd /var/tmp/saabproject
+touch one
+touch two
+echo "end of sencond project"
